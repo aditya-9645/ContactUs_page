@@ -1,0 +1,14 @@
+import styles from './ContactHeader.module.css';
+
+const ContactHeader = () => {
+  return (
+    <>
+        <div className={`${styles.header} container`}>
+            <h1>CONTACT US</h1>
+            <p>LOREM IPSUM DOLOR SIT AMET CONSECTETUR ADIPISICING ELIT. TEMPORA EARUM BLANDITIIS APERIAM MOLESTIAS, QUAS AT. MODI OMNIS LABORE CUPIDITATE NULLA ET MOLITIA PARIATUR PROVIDENT QUOD TEMPORE DOLOREMQUE RERUM EARUM MAIORES VITAE DISTINCTIO, ILLO DELECTUS COMMODI PERSPICIASTIS QUIDEM REM QUAS EX REPELLENDUS EVENIET SEQUI. RECUSANDAE, QUISQUAM?</p>
+        </div>
+    </>
+  )
+};
+
+export default ContactHeader;

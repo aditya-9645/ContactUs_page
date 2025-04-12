@@ -1,0 +1,19 @@
+.logo_image{
+    width: 70px;
+    height: 70px;
+}
+
+.navigation{
+    display: flex;
+    justify-content: space-between;
+    height: 72px;
+    align-items: center;
+}
+  
+.navigation ul{
+    font-weight: 500;
+    display: flex;
+    list-style: none;
+    gap: 24px;
+}
+  

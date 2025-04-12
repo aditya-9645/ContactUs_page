@@ -1,0 +1,6 @@
+.contactSection{
+    display: flex;
+    justify-content: space-between;
+    width: 65vw;
+}
+
