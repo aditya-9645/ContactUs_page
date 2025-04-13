@@ -6,6 +6,24 @@
     border-radius: 5px;
     cursor: pointer;
     display:flex ;
-    justify-content: space-between;
+    justify-content: center;
+    height: 50px;
+    width: 250px;
+    align-items: center;
+    gap: 24px;
+}
 
-  }
+.outlineBtn{
+  background-color: rgb(255, 255, 255);
+  border: 1px solid black;
+  color: rgb(0, 0, 0);
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  display:flex ;
+  justify-content: center;
+  height: 50px;
+  width: 524px;
+  align-items: center;
+  gap: 24px;
+}
