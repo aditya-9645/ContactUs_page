@@ -24,3 +24,42 @@
     padding-left: 5vw;
     width: 32.5vw;
 }
+
+.contactForm form{
+    margin-top: 24px;
+    display: flex;
+    flex-direction: column;
+    width: 84%;
+}
+
+.form_control{
+    width: 100%;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 24px;
+}
+
+.form_control input{
+    padding: 7px 15px;
+    height: 30px;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.form_control textarea{
+    padding: 7px 15px;
+    height: 100px;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.form_control label{
+    position: absolute;
+    margin-top: -10px;
+    margin-left: 12px;
+    background-color: white;
+    padding: 0px 5px;
+    font-size: 14px;
+    font-weight: 800;
+}
