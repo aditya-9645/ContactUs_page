@@ -1,10 +1,8 @@
-# React + Vite
-
 # ContactUs Page
 
 A simple Contact Us form built with **React** and **JavaScript**.
 
 ## Technologies Used
-- React
+- React + Vite
 - JavaScript
 - CSS Modules
